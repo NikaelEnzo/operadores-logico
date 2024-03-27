@@ -3,5 +3,5 @@
 */
 
 /*                (true || false ) && (false || true)
-                        true       &&       true      = true
+                       true        &&       true      = true
 */

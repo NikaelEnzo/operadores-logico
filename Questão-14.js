@@ -3,5 +3,5 @@
 */
 
 /*                (10 > 5) && !(3 < 1)
-                    true   && ! false  = true 
+                    true   &&  !false  = true 
 */

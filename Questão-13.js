@@ -3,5 +3,5 @@
 */
 
 /*                !(5 !== 5)
-                  !  false   = true
+                    !false   = true
 */

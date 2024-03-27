@@ -3,12 +3,6 @@
 10 a 20 em JavaScript usando operadores lógicos?
 */
 
-let numero = 15
-let intervalo = numero >= 10 && numero <= 20;
-
-console.log(intervalo)
-
-/*
 let numero = 15;
 
 if (numero >= 10 && numero <= 20) {
@@ -16,4 +10,10 @@ if (numero >= 10 && numero <= 20) {
 } else {
     console.log("Não está dentro")
     }
+
+/*
+let numero = 15
+let intervalo = (numero >= 10) && (numero <= 20);
+
+console.log(intervalo)
 */

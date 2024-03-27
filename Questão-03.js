@@ -3,5 +3,5 @@
 */
 
 /*                !(5 === 3) && (4 >= 4)
-                      true   &&   true   = true
+                    !false   &&   true   = true
 */
